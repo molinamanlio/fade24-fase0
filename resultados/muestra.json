@@ -1,0 +1,24 @@
+{
+ "activas_t_min_ms": 1772877600000,
+ "activas_t_max_ms": 1790884800000,
+ "activas_dias_historia": 208.41666666666666,
+ "deslistadas_t_min_ms": 1696636800000,
+ "deslistadas_t_max_ms": 1787738400000,
+ "monedas_universo": 234,
+ "monedas_con_datos": 234,
+ "monedas_deslistadas_con_datos": 56,
+ "velas_total": 1147017,
+ "velas_por_moneda_mediana": 5001.0,
+ "velas_por_moneda_max": 5003,
+ "monedas_con_huecos": 0,
+ "horas_faltantes_total": 0,
+ "t_min_ms": 1696636800000,
+ "t_max_ms": 1790884800000,
+ "dias_historia": 1090.8333333333333,
+ "velas_validas_para_eventos": 1053881,
+ "cortes_liquidez_usd": [
+  5117.099093083333,
+  13375.213166458334,
+  60555.42283111458
+ ]
+}
