@@ -1,0 +1,5 @@
+requests==2.34.2
+polars==1.44.2
+numpy==2.5.3
+matplotlib==3.11.2
+pyarrow==25.0.1
